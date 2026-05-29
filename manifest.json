@@ -1,0 +1,29 @@
+{
+    "name": "RelayFlow Pro - IoT Dashboard",
+    "short_name": "RelayFlow Pro",
+    "description": "MQTT Smart Switch IoT Dashboard for ESP32 Relay Control",
+    "start_url": "./",
+    "scope": "./",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#ebf0f5",
+    "theme_color": "#6366f1",
+    "icons": [
+        {
+            "src": "./icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "./icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": ["utilities", "productivity"],
+    "lang": "id-ID",
+    "dir": "ltr",
+    "prefer_related_applications": false
+}
