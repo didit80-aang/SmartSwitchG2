@@ -1,6 +1,6 @@
 {
     "name": "RelayFlow Pro - IoT Dashboard",
-    "short_name": "RelayFlow Pro",
+    "short_name": "ESwitch",
     "description": "MQTT Smart Switch IoT Dashboard for ESP32 Relay Control",
     "start_url": "./",
     "scope": "./",
